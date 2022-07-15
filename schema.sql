@@ -11,6 +11,4 @@ CREATE TABLE animals(
     weight_kg FLOAT
 );
 
-/* add new column*/
 
-ALTER TABLE animals ADD species VARCHAR(200);

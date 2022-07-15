@@ -1,5 +1,7 @@
 /* Database schema to keep the structure of entire database. */
 
+CREATE DATABASE vet_clinic;
+
 CREATE TABLE animals(
     id INT GENERATED ALWAYS AS IDENTITY,
     name VARCHAR(110) NOT NULL,
@@ -7,4 +9,4 @@ CREATE TABLE animals(
     escapee_attempts INT,
     neutered BOOLEAN,
     weight_kg FLOAT
-)
+);

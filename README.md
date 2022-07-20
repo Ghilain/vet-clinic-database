@@ -19,6 +19,12 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Twitter: [@GhilainIshimwe](https://twitter.com/GhilainIshimwe)
 - LinkedIn: [Ghilain Ishimwe](https://www.linkedin.com/in/ghilain-ishimwe/)
 
+👤 **Hammad Siddique** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
+
+  - [GitHub](https://github.com/HammadSiddique)
+  - [Twitter](https://twitter.com/hs_devv)
+  - [LinkedIn](https://www.linkedin.com/in/-hammadsiddique/)
+
 
 ## 🤝 Contributing
 

@@ -2,6 +2,7 @@
 In this database project, I created a relational database to create the data structure for a vet clinic app. I have created different tables to make a complete database with data about animals, animals' owners, clinic employees, and visits
 
 ## Getting Started
+[Diagram Schema show](https://user-images.githubusercontent.com/67911212/179798585-31538080-3edc-4422-bcc6-3fb4fd29b1fd.png)
 
 This repository includes files with plain SQL that can be used to recreate a database:
 
